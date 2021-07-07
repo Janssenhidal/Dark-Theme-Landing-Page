@@ -119,11 +119,12 @@ nav ul a:hover {
   padding: 0 2rem;
 }
 
-.sub-title h3 {
+.sub-title h2 {
   font-weight: 400;
   -webkit-filter: brightness(85%);
           filter: brightness(85%);
   max-width: 55ch;
+  font-size: 1.25rem;
   line-height: 1.7rem;
 }
 
@@ -161,7 +162,7 @@ nav ul a:hover {
   margin-bottom: 1rem;
 }
 
-.grid h3 {
+.grid h2 {
   font-family: 'raleway';
   font-weight: 700;
 }
@@ -611,7 +612,7 @@ ul a:hover {
     font-size: 2rem;
     max-width: 23ch;
   }
-  .sub-title h3 {
+  .sub-title h2 {
     font-size: 1rem;
   }
 }

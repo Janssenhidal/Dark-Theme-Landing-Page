@@ -88,10 +88,11 @@ nav{
     
     
     
-    h3{
+    h2{
         font-weight: 400;
         filter: brightness(85%);
         max-width: 55ch;
+        font-size: 1.25rem;
         line-height: 1.7rem;
     }
     .button{
@@ -123,7 +124,7 @@ nav{
     img{
         margin-bottom: 1rem;
     }
-    h3{
+    h2{
         font-family: 'raleway';
         font-weight: 700;
     }
@@ -513,7 +514,7 @@ ul{
         }          
     }
     .sub-title{
-        h3{
+        h2{
             font-size: 1rem;
         }
     }
