@@ -628,4 +628,10 @@ ul a:hover {
     width: 75px;
   }
 }
+
+@media only screen and (max-width: 400px) {
+  footer {
+    margin-top: 3rem;
+  }
+}
 /*# sourceMappingURL=main.css.map */
