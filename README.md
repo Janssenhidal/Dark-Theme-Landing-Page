@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://janssenhidal.github.io/Dark-Theme-Landing-Page/]
+- Solution URL: https://www.frontendmentor.io/solutions/html-scss-js-darktheme-page--z-cJd2Fo
+- Live Site URL: https://janssenhidal.github.io/Dark-Theme-Landing-Page/
 
 
 ### Built with
